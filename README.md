@@ -3,4 +3,5 @@
 Course Project for the course of Quantitative Finance
 
 Analysis: [Analysis.ipynb](./Analysis.ipynb)
-Report: [Quantitative Finance Project.pdf](./Quantitative\ Finance\ Project.pdf)
+
+Report: [QuantitativeFinanceProject.pdf](./QuantitativeFinanceProject.pdf)
